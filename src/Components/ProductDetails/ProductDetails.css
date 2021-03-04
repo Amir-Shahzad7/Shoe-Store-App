@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Audiowide");
+
+.ProductHeading {
+    font-family: Audiowide;
+    letter-spacing: 2px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.ImageDiv {
+    display: flex;
+    justify-content: center;
+}
+
+.Image {
+    max-width: 35%;
+}

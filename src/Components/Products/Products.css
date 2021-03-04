@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css?family=Audiowide");
+
+.HeadingFont {
+    font-family: Audiowide;
+    letter-spacing: 2px;
+    text-align: center;
+    font-size: 35px;
+}

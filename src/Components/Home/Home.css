@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css?family=Audiowide");
+
+body {
+  background-color: #f5f5f5;
+}
+
+.Font {
+  text-align: center;
+  line-height: 5px;
+  font-family: "Audiowide";
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.BottomFont {
+  text-align: center;
+  line-height: 5px;
+  font-family: "Audiowide";
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+.Buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border-radius: 50px;
+}
+
+@media (max-width: 390px) {
+  .Font {
+    text-align: center;
+    line-height: 5px;
+    font-family: "Audiowide";
+    font-size: 15px;
+    font-weight: bolder;
+  }
+}
