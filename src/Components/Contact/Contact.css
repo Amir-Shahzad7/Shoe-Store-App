@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Audiowide");
+
+.ContactHeading {
+  font-family: Audiowide;
+  letter-spacing: 2px;
+  text-align: center;
+  font-size: 35px;
+}
+
+.Contact {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.TextArea {
+  display: flex;
+  justify-content: center;
+}
+
+.Button {
+  background: #4b6cb7;
+  background: -webkit-linear-gradient(to right, #182848, #4b6cb7);
+  background: linear-gradient(to right, #182848, #4b6cb7);
+  border-radius: 4px;
+  text-align: center;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}

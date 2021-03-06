@@ -255,7 +255,7 @@ function ProductDetails() {
         </div>
         <hr />
         <div>
-          <Typography style={{letterSpacing: "1px"}} align="center" variant="h5" color="textPrimary">
+          <Typography style={{letterSpacing: "1px", fontFamily: "sans-serif"}} align="center" variant="h4" color="textSecondary">
             Price: {Shoes.Price}
           </Typography>
         </div>

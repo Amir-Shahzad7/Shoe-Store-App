@@ -26,9 +26,9 @@ function Footer() {
         <div className="Column3">
           <h5 className="Heading">SOCIAL</h5>
           <ul className="SocialList">
-            <li><IconButton aria-label="facebook" color="primary"><Facebook /></IconButton></li>
-            <li><IconButton aria-label="instagram" color="secondary"><Instagram /></IconButton></li>
-            <li><IconButton aria-label="twitter" color="primary"><Twitter /></IconButton></li>
+            <li><IconButton aria-label="facebook" style={{color: "#7e7e7e"}}><Facebook /></IconButton></li>
+            <li><IconButton aria-label="instagram" style={{color: "#7e7e7e"}}><Instagram /></IconButton></li>
+            <li><IconButton aria-label="twitter" style={{color: "#7e7e7e"}}><Twitter /></IconButton></li>
           </ul>
         </div>
       </div>

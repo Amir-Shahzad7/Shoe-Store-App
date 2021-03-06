@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Audiowide");
 
 .Footer {
-  background: #333;
+  background: #111111;
   color: white;
   display: flex;
   flex-direction: row;
@@ -12,8 +12,9 @@
  
 .List > li {
      list-style-type: none;
-     font-size: 75%;
-     line-height: 30px;
+     font-size: small;
+     padding: none;
+     color: #7e7e7e;
      align-content: center;
  }
 
@@ -21,7 +22,7 @@
     display: inline;
     justify-content: space-evenly;
     margin: 5px;
-    padding: 5px;
+    padding: none;
 }
 
 .Heading {
